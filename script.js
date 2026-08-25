@@ -24,5 +24,5 @@ var ans = arr.find(function (val){
     }
 })
 
-console.log(typeof(ans));
+// console.log(typeof(ans));
 
