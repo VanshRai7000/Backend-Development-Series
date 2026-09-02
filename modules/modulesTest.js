@@ -1,5 +1,6 @@
-const math = require('./modules.js');
+// const math = require('./modules.js');
+import * as math from './modules.js';
 
-console.log("Adition :", math.addfun(4, 6));
-console.log("Subtraction :", math.subfun(14, 6));
-console.log("Factorial :", math.factfun(10));
+console.log("Adition :", math.add(4, 6));
+console.log("Subtraction :", math.sub(14, 6));
+console.log("Factorial :", math.fact(10));
