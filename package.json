@@ -1,0 +1,21 @@
+{
+  "name": "backend-development-series-",
+  "version": "1.0.0",
+  "description": "This is my Repository where I push the codes releated to Backend Development of MERN Stack.",
+  "homepage": "https://github.com/VanshRai7000/Backend-Development-Series-#readme",
+  "bugs": {
+    "url": "https://github.com/VanshRai7000/Backend-Development-Series-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanshRai7000/Backend-Development-Series-.git"
+  },
+  "license": "ISC",
+  "author": "vansh",
+  "type": "commonjs",
+  "main": "asyncjc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node script2.js && FileSystem.js"
+  }
+}

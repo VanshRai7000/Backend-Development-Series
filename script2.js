@@ -6,10 +6,11 @@ var obj = {
 }
 
 //To freeze the object , so that we cannot modify the existing properties and cannot add new properties to it.
-Object.freeze(obj);
+/* Object.freeze(obj);
 
 //To seal the object , so that we can modify the existing properties but cannot add new properties to it.
 Object.seal(obj);
+ */
 
 obj.age = 21
 
