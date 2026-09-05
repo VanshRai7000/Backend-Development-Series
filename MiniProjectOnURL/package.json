@@ -1,5 +1,5 @@
 {
-  "name": "httpserver",
+  "name": "miniprojectonurl",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -9,8 +9,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-  },
-  "dependencies": {
-    "url": "^0.11.4"
   }
 }
